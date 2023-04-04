@@ -21,6 +21,7 @@ public class AirportRepository {
     HashMap<String, Airport> AirportDB;
 
     HashMap<Integer, List<Integer>> TripDB;
+    HashMap<Integer, List<Integer>> TripDB2;
 
     HashMap<Integer,Integer> TicketNo;
 
